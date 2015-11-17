@@ -1,0 +1,12 @@
+<script>
+
+var score = 75;
+
+if(score > 55){
+  document.write("you passed");
+}else{
+  document.write("you failed");
+}
+document.write("<br />");
+
+</script>
